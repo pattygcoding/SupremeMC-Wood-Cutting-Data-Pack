@@ -24,8 +24,8 @@ This makes woodworking more efficient and gives the stonecutter more practical u
 
 ## Compatibility
 
-- **Minecraft Version**: 1.21.10 (Java Edition)
-- **Data Pack Format**: 88
+- **Minecraft Version**: 1.21.4+ (Java Edition)
+- **Data Pack Format**: 61
 
 ## Installation
 
@@ -48,7 +48,7 @@ This makes woodworking more efficient and gives the stonecutter more practical u
 
 - ✅ Over 250 stonecutting recipes for wooden items
 - ✅ Works with all wood types including new additions (Cherry, Pale Oak)
-- ✅ Compatible with Minecraft 1.21.10
+- ✅ Compatible with Minecraft 1.21.4 and later versions
 - ✅ Efficient crafting alternative to traditional crafting table recipes
 - ✅ Unlockable recipes through advancement system
 
